@@ -60,7 +60,7 @@ class _CounterPageState extends State<CounterPage> {
             ),
 
             const Text(
-              'NIM: [NIM]',
+              'NIM: 20240801059',
               style: TextStyle(
                 fontSize: 18,
                 color: Colors.grey,
